@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\czare\\source\\repos\\LessonUG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{116E3BD0-AC12-4DA1-B4F4-883C523AE565}|LessonUG\\LessonUG.csproj|c:\\users\\czare\\source\\repos\\lessonug\\lessonug\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{116E3BD0-AC12-4DA1-B4F4-883C523AE565}|LessonUG\\LessonUG.csproj|solutionrelative:lessonug\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{116E3BD0-AC12-4DA1-B4F4-883C523AE565}|LessonUG\\LessonUG.csproj|c:\\users\\czare\\source\\repos\\lessonug\\lessonug\\controllers\\lessoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{116E3BD0-AC12-4DA1-B4F4-883C523AE565}|LessonUG\\LessonUG.csproj|solutionrelative:lessonug\\controllers\\lessoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{116E3BD0-AC12-4DA1-B4F4-883C523AE565}|LessonUG\\LessonUG.csproj|c:\\users\\czare\\source\\repos\\lessonug\\lessonug\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{116E3BD0-AC12-4DA1-B4F4-883C523AE565}|LessonUG\\LessonUG.csproj|solutionrelative:lessonug\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{116E3BD0-AC12-4DA1-B4F4-883C523AE565}|LessonUG\\LessonUG.csproj|c:\\users\\czare\\source\\repos\\lessonug\\lessonug\\dtos\\lessondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{116E3BD0-AC12-4DA1-B4F4-883C523AE565}|LessonUG\\LessonUG.csproj|solutionrelative:lessonug\\dtos\\lessondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{116E3BD0-AC12-4DA1-B4F4-883C523AE565}|LessonUG\\LessonUG.csproj|c:\\users\\czare\\source\\repos\\lessonug\\lessonug\\models\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{116E3BD0-AC12-4DA1-B4F4-883C523AE565}|LessonUG\\LessonUG.csproj|solutionrelative:lessonug\\models\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{116E3BD0-AC12-4DA1-B4F4-883C523AE565}|LessonUG\\LessonUG.csproj|c:\\users\\czare\\source\\repos\\lessonug\\lessonug\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{116E3BD0-AC12-4DA1-B4F4-883C523AE565}|LessonUG\\LessonUG.csproj|solutionrelative:lessonug\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 261,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\czare\\source\\repos\\LessonUG\\LessonUG\\Program.cs",
+              "RelativeDocumentMoniker": "LessonUG\\Program.cs",
+              "ToolTip": "C:\\Users\\czare\\source\\repos\\LessonUG\\LessonUG\\Program.cs",
+              "RelativeToolTip": "LessonUG\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T16:28:02.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\czare\\source\\repos\\LessonUG\\LessonUG\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "LessonUG\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\czare\\source\\repos\\LessonUG\\LessonUG\\Data\\DataContext.cs",
+              "RelativeToolTip": "LessonUG\\Data\\DataContext.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAUwBIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T10:30:41.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Lesson.cs",
+              "DocumentMoniker": "C:\\Users\\czare\\source\\repos\\LessonUG\\LessonUG\\Models\\Lesson.cs",
+              "RelativeDocumentMoniker": "LessonUG\\Models\\Lesson.cs",
+              "ToolTip": "C:\\Users\\czare\\source\\repos\\LessonUG\\LessonUG\\Models\\Lesson.cs",
+              "RelativeToolTip": "LessonUG\\Models\\Lesson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T10:11:51.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LessonDTO.cs",
+              "DocumentMoniker": "C:\\Users\\czare\\source\\repos\\LessonUG\\LessonUG\\DTOs\\LessonDTO.cs",
+              "RelativeDocumentMoniker": "LessonUG\\DTOs\\LessonDTO.cs",
+              "ToolTip": "C:\\Users\\czare\\source\\repos\\LessonUG\\LessonUG\\DTOs\\LessonDTO.cs",
+              "RelativeToolTip": "LessonUG\\DTOs\\LessonDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T10:08:54.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LessonController.cs",
+              "DocumentMoniker": "C:\\Users\\czare\\source\\repos\\LessonUG\\LessonUG\\Controllers\\LessonController.cs",
+              "RelativeDocumentMoniker": "LessonUG\\Controllers\\LessonController.cs",
+              "ToolTip": "C:\\Users\\czare\\source\\repos\\LessonUG\\LessonUG\\Controllers\\LessonController.cs",
+              "RelativeToolTip": "LessonUG\\Controllers\\LessonController.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAgwCAAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T10:08:34.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\czare\\source\\repos\\LessonUG\\LessonUG\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "LessonUG\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\czare\\source\\repos\\LessonUG\\LessonUG\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "LessonUG\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAQwF4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T18:14:31.249Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
