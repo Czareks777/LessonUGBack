@@ -11,18 +11,20 @@ using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
+
 builder.Services.AddCors(o => o.AddPolicy("Lesson", builder => { builder.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader(); }));
 builder.Services.AddDbContext<DataContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
-builder.Services.AddScoped<ITokenService,TokenService>();
+builder.Services.AddScoped<ITokenService, TokenService>();
 builder.Services.AddTransient<SeedTeacherAccount>();
+
 builder.Services.AddControllers()
     .AddJsonOptions(options =>
     {
         options.JsonSerializerOptions.ReferenceHandler = System.Text.Json.Serialization.ReferenceHandler.Preserve;
     });
-builder.Services.AddControllers();
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+
+
+
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen(options =>
 {
@@ -84,18 +86,16 @@ builder.Services.AddAuthorization(options =>
         policy.RequireRole("Teacher"));
 });
 builder.Services.AddDistributedMemoryCache();
-//----------------------------------------------------------------------------------------------------------------------------------
+
 var app = builder.Build();
 
 using (var scope = app.Services.CreateScope())
 {
     var services = scope.ServiceProvider;
 
-   
     var db = services.GetRequiredService<DataContext>();
     db.Database.Migrate();
 
-  
     var roleManager = services.GetRequiredService<RoleManager<IdentityRole>>();
     if (!await roleManager.RoleExistsAsync(Roles.Teacher))
     {
@@ -116,14 +116,14 @@ if (app.Environment.IsDevelopment())
 app.UseDefaultFiles();
 app.UseStaticFiles();
 app.UseRouting();
-app.UseCors("Kino");
+app.UseCors("Lesson");
 app.UseHttpsRedirection();
 app.UseAuthentication();
 app.UseAuthorization();
 app.UseSwaggerUI(options =>
 {
     options.SwaggerEndpoint("/swagger/v1/swagger.json", "Your API v1");
-    options.RoutePrefix = string.Empty; // Set the Swagger UI at the root URL
+    options.RoutePrefix = string.Empty; 
     options.DocumentTitle = "Your API Documentation";
 });
 app.MapControllers();

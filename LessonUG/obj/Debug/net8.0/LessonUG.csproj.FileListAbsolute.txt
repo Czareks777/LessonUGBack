@@ -142,3 +142,9 @@ C:\Users\czare\source\repos\LessonUG\LessonUG\obj\Debug\net8.0\refint\LessonUG.d
 C:\Users\czare\source\repos\LessonUG\LessonUG\obj\Debug\net8.0\LessonUG.pdb
 C:\Users\czare\source\repos\LessonUG\LessonUG\obj\Debug\net8.0\LessonUG.genruntimeconfig.cache
 C:\Users\czare\source\repos\LessonUG\LessonUG\obj\Debug\net8.0\ref\LessonUG.dll
+C:\Users\czare\source\repos\LessonUG\LessonUG\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\czare\source\repos\LessonUG\LessonUG\bin\Debug\net8.0\Moq.dll
+C:\Users\czare\source\repos\LessonUG\LessonUG\bin\Debug\net8.0\xunit.abstractions.dll
+C:\Users\czare\source\repos\LessonUG\LessonUG\bin\Debug\net8.0\xunit.assert.dll
+C:\Users\czare\source\repos\LessonUG\LessonUG\bin\Debug\net8.0\xunit.core.dll
+C:\Users\czare\source\repos\LessonUG\LessonUG\bin\Debug\net8.0\xunit.execution.dotnet.dll
